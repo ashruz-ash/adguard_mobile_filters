@@ -1,0 +1,4 @@
+onehack.us##+js(nobab)
+@@||onehack.us^$generichide
+onehack.us##+js(nostif, adb)
+onehack.us##+js(aeld, load, nextFunction)
