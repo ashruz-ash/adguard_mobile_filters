@@ -8,3 +8,7 @@ onehack.us##+js(nobab)
 @@||onehack.us^$generichide
 onehack.us##+js(nostif, adb)
 onehack.us##+js(aeld, load, nextFunction)
+onehack.us##+js(noeval-if)
+onehack.us##+js(nosiif)
+onehack.us##+js(nostif, /^/)
+onehack.us##+js(nostif)
