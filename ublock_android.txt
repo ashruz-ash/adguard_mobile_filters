@@ -1,8 +1,7 @@
-! Checksum: jtijpiM5tJG2BRUYVJaO9g
+! Checksum: jtijpiM5tJG2ghitgjkBRUYVJaO9g
 ! Title: Ublock Android User Filters
 ! Description: Custom Filter for known mobile ad networks and issues.
-! Version: 1.0
-! TimeUpdated: 2020-05-08T21:30:15+03:00
+! Version: 1.2
 ! Expires: 4 days (update frequency)
 onehack.us##+js(nobab)
 @@||onehack.us^$generichide
